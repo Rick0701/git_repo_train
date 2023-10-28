@@ -1,3 +1,1 @@
-print("This is a new file")
-
-ds < afsdf
+Print("This is a new file")
